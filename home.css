@@ -1,0 +1,25 @@
+body {background-image: url("BG.jpg");background-size: cover;}
+#header{width: 100%;background-color: rgba(62, 167, 52, .9);text-align: center;font-size: 40px;font-weight: bolder}
+#nav{display: flex;flex-direction:row;background-color: rgba(183, 223, 185, 0.5);padding:10px;}
+#nav a {padding: 0 20px;font-size: 30px;font-weight: bolder;text-decoration: none;text-transform: uppercase;}
+#nav a:hover {color:rgb(201, 24, 24); font-size: 33px;border-bottom: 2px solid green;}
+
+section{text-align: center;padding: 20px 0;}
+
+#container{padding: 50px 0;background-color: rgba(26, 16, 37, 0.9);width: 100%;display: grid;grid-template-columns: 1fr 1fr 1fr;}
+.log{padding: 0px 0;background-color: rgba(136, 35, 82,.9);height: 300px;width: auto;background-size: cover;}
+#log1{background-image: url("IMG-20191114-WA0015.jpg");}
+#log2{background-image: url("img3.jpg");}
+#log3{background-image: url("img4.jpg");}
+#log4{background-image: url("IMG-20191114-WA0009.jpg");}
+#log5{background-image: url("IMG-20191114-WA0011.jpg");}
+#log6{background-image: url("bg.jpg");}
+#log7{background-image: url("bg.jpg");}
+#log8{background-image: url("bg.jpg");}
+#footer img{height: 40px;width: 40px;}
+#footer{height: 40px;width: 40px;font-size: 20px;font-weight: bolder;display: flex;flex-direction: row;padding-bottom: 50px;padding-left: 20%;}
+#footer div{padding-right: 30px;}
+#footer img:hover{height: 60px;width: 60px;}
+
+#span{font-size: 30px;font-weight: bolder;padding-top: 30px;color: chartreuse;}
+
